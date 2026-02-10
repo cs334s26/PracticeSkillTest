@@ -1,5 +1,5 @@
 # PracticeSkillTest
-- Deborah R
-- Marena A
-- Tori C
-- Vicente R
+- Deborah Rabinovich
+- Marena Abboud
+- Tori Champagne
+- Vicente Rivera
