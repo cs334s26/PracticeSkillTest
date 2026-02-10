@@ -1,5 +1,5 @@
 # PracticeSkillTest
 - Deborah Rabinovich
 - Marena Abboud
-- Tori Champagne
+- Tori Champagne :(
 - Vicente Rivera
