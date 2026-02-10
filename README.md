@@ -3,3 +3,6 @@
 - Marena Abboud
 - Tori Champagne :(
 - Vicente Rivera
+
+
+# Virtual Environment Instructions
